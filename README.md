@@ -1,6 +1,6 @@
 # exemplo_sequelize
 
-Este é uma réplica do case apresentadpo no tutorial de sequeloze do traversy media.
+Este é uma réplica do case apresentadpo no tutorial de sequelize do traversy media.
 Links dos vídeos:
 * Parte 1: https://www.youtube.com/watch?v=bOHysWYMZM0
 * Parte 2: https://www.youtube.com/watch?v=67OhLlFPqFQ
